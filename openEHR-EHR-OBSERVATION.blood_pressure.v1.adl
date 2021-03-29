@@ -10,7 +10,7 @@ language
 		["de"] = <
 			language = <[ISO_639-1::de]>
 			author = <
-				["name"] = <"Sebastian Garde, Jasmin Buck">
+				["name"] = <"Sebastian Garde, Jasmin Buck and IDS">
 				["organisation"] = <"Ocean Informatics, University of Heidelberg and SPPR">
 			>
 		>
@@ -288,7 +288,7 @@ En estos casos utilizar el arquetipo OBSERVATION.intravascular_pressure.">
 		>
 	>
 	other_details = <
-		["MD5-CAM-1.0.1"] = <"2ad70655bfb46a74c17737b3b71dd037">
+		["MD5-CAM-1.0.1"] = <"c1dcf31698ff7c4df654a41844a8a4b6">
 		["build_uid"] = <"5f9c3f4b-0f2a-3e95-ada7-6c61f68165d4">
 		["ip_acknowledgements"] = <"This artefact includes content from SNOMED Clinical Terms® (SNOMED CT®) which is copyrighted material of the International Health Terminology Standards Development Organisation (IHTSDO). Where an implementation of this artefact makes use of SNOMED CT content, the implementer must have the appropriate SNOMED CT Affiliate license - for more information contact http://www.snomed.org/snomed-ct/get-snomedct or info@snomed.org.">
 	>
